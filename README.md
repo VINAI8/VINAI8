@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vinay
 
-<!--
-**VINAI8/VINAI8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m a Deep Learning student with a mind wired for patterns.  
+- Obsessive about AI, autonomy, and clean mental models.  
+- This space holds fragments—raw, messy, and real.  
+- I have AuDHD—it sharpens my perception, but scrambles the obvious.  
+- I freeze at simple instructions, but decipher complexity like a puzzle in the dark.  
+- My workflow is erratic—bursts of focus surrounded by fog.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ping me anytime 
+
+[LinkedIn](https://www.linkedin.com/in/vinayvelpula03?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[Email](mailto:vinayvelpula14@gmail.com)
